@@ -34,7 +34,6 @@ Real-world delivery systems face unpredictable events. We extended the static ar
 *   Allows the system to accept/reject new orders or interrupt active routes in milliseconds without running a full TSP recalculation.
 
 ## System Execution Flow
-*(Upload your system execution flowchart to the repository and replace `diagram.png` with the actual file name)*
 
 ![System Execution Flow](diagram.png)
 
